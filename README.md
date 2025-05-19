@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&pause=1200&color=FAD000&center=true&vCenter=true&width=460&lines=>>>+init+reverse_id('Parthiv');...=+'Vihtrap';>>>+Welcome+to+the+Other+Side." alt="Reverse Animation" />
-</p>
-
----
-
 ## 🧠 About This Alt
 
 Welcome to the **shadow workspace**.  
